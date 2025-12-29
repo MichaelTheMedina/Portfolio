@@ -36,7 +36,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(0 255 0)" }}>
-            "Strive to build things that make a difference!"{" "}
+            “The greatest vulnerability in any system is the belief that it is finished.”{" "}
           </p>
           <footer className="blockquote-footer">Michael Medina</footer>
         </blockquote>

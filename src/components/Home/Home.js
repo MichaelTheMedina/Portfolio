@@ -29,7 +29,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                whoami
+                I am 
                 <strong className="main-name"> MICHAEL MEDINA</strong>
               </h1>
 

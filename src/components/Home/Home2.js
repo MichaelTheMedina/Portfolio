@@ -13,38 +13,33 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m a 
+              <i> <b className="purple">{" "} Cybersecurity Engineer {" "} </b></i>
+              focused on 
+              <i> <b className="purple">{" "} Governance, Risk, and Compliance (GRC), {" "} </b></i>
+              with a strong technical foundation across modern cloud platforms and security tooling. 
+              <br/><br/>
+              My experience spans 
+              <i> <b className="purple">{" "} AWS, Google Cloud, and Azure{" "} </b></i>
+              environments, containerized architectures using 
+              <i> <b className="purple">{" "} Docker and Kubernetes, {" "} </b></i>
+              and edge/security platforms like 
+              <i> <b className="purple">{" "} Cloudflare. {" "} </b></i>
+              I’ve assessed and validated controls using tools such as 
+              <i> <b className="purple">{" "} Burp Suite, SonarQube, Splunk, and pfSense, {" "} </b></i>
+              enabling risk assessments that go beyond checklist-based compliance.
               <br />
               <br />
-              I’m proficient in
-              <i>
-                <b className="purple">
-                  {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
-                </b>
-              </i>
-              — and I enjoy working across both backend and frontend stacks.
-              <br />
-              <br />
-              My key areas of interest include developing
-              <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Blockchain Solutions,{" "}
-                </b>
-              </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
-              <br />
-              <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
-              </i>
+              I work closely with engineering and business teams using 
+              <i> <b className="purple">{" "} Jira, Confluence, Trello, Slack, and Salesforce. {" "} </b></i>
+              to integrate security requirements into SDLC and operational workflows.
+              I’m particularly interested in 
+              <i> <b className="purple">{" "} HIPAA-aligned {" "} </b></i>
+              security programs, 
+              <i> <b className="purple">{" "} control mapping, third-party risk management, {" "} </b></i>
+              and reducing audit fatigue through 
+              <i> <b className="purple">{" "} automation {" "} </b></i>
+              and practical security governance.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

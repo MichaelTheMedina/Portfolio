@@ -7,9 +7,10 @@ function Type() {
       options={{
         strings: [
           "Cyber Security Engineer",
-          "Cloud Security",
-          "DevOps Automation",
-          "Vulnerability Management",
+          "Cloud Architect",
+          "DevOps Orchestrator",
+          "Vulnerability Strategist",
+          "GRC Sentinel",
         ],
         autoStart: true,
         loop: true,

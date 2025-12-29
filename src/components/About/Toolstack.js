@@ -9,7 +9,7 @@ function Toolstack() {
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
         <img src={macOs} alt="macOs" className="tech-icon-images" />
-        <div className="tech-icons-text">Mac Os</div>
+        <div className="tech-icons-text">MacOs</div>
       </Col>
       <Col xs={4} md={2} className="tech-icons ">
         <img src={chrome} alt="Chrome" className="tech-icon-images" />
