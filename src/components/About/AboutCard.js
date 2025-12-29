@@ -12,11 +12,11 @@ function AboutCard() {
             from <span className="purple">California, USA</span>.
             <br />
             I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
+            <span className="purple">GRC Specialist</span> at{" "}
+            <span className="purple">ChromaCare Counseling</span>.
+            <br />I hold a Masters Degree in{" "}
+            <span className="purple">Cyber Security and Information Systems</span> from{" "}
+            <span className="purple">UMGC</span>.
             <br />
             <br />
             Outside of coding, I love engaging in activities that keep me
@@ -25,13 +25,13 @@ function AboutCard() {
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing & Making Video Games 🎮
+              <ImPointRight /> Making Video Games 🎮
             </li>
             <li className="about-activity">
               <ImPointRight /> Writing Tech Blogs ✍️
             </li>
             <li className="about-activity">
-              <ImPointRight /> Traveling and Exploring New Places 🌍
+              <ImPointRight /> Optimizing my Daily Workflows 🤖
             </li>
           </ul>
 

@@ -4,7 +4,7 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
+import laptopImg from "../../Assets/about.svg";
 import Toolstack from "./Toolstack";
 
 function About() {
@@ -24,7 +24,7 @@ function About() {
               }}
             >
               <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-                Ask yourself <strong className="purple">WHOAMI</strong>
+                Ask yourself <strong className="purple">&gt;WHOAMI</strong>
               </h1>
               <Aboutcard />
             </Col>
@@ -46,8 +46,6 @@ function About() {
             <strong className="purple">Tools</strong> I use
           </h1>
           <Toolstack />
-
-          <Github />
         </Container>
       </Container>
     </>
